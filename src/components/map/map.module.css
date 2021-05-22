@@ -1,0 +1,11 @@
+.container {
+  height: 100%;
+}
+
+.point {
+  color: red;
+  font-size: 3em;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+

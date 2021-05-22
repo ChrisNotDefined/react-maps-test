@@ -1,0 +1,12 @@
+.container {
+  margin: auto;
+  width: 90%;
+  height: max(calc(100vw * 0.4), 400px);
+}
+
+.label {
+  margin: auto;
+  margin-top: 1em;
+  width: fit-content;
+  border-bottom: solid black 2px;
+}
